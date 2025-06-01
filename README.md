@@ -1,22 +1,40 @@
 <h1 align="center">Hi 👋, I'm Yusuf Senel</h1>
-<h3 align="center">A Passionate Developer and Creator of Skriza</h3>
+<h3 align="center">Full-Stack Developer · Focused on modern web platforms</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuf57rl&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf57rl" /> </p>
+<p align="center">
+  <a href="https://livalink.com" target="_blank">livalink.com</a> · 
+  <a href="https://log-sysdev.de" target="_blank">log-sysdev.de</a> · 
+  <a href="mailto:mail@yusufsenel.de">mail@yusufsenel.de</a>
+</p>
 
-- 🔭 I’m currently working on [Skriza](https://skriza.com), an innovative platform offering a Twitter-like experience with sentiment values and Taler reward systems.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=yusuf57rl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-- 🌱 I’m currently learning **JavaScript/TypeScript and React** to enhance my skills.
+---
 
-- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/yusuf57rl).
+🚀 Currently building [**LivaLink**](https://livalink.com) – a link-in-bio and booking tool for small businesses and restaurants. Includes scheduling, product pages and integrated payment handling (in development).
 
-- 💬 Ask me about **PHP, Vue.js, and Python** - these are the technologies I'm most proficient in.
+🧩 Offering freelance services via [**log-sysdev.de**](https://log-sysdev.de) — mainly focused on custom web development using modern stacks.
 
-- 📫 How to reach me **mail@yusufsenel.de**
+💻 **Stack & Skills**
 
-- ⚡ Fun fact **I believe in continuous learning and embracing new challenges!**
+- **Frontend:** Next.js · React · TypeScript  
+- **Backend:** Golang · PHP (Symfony) · Python  
+- **Other:** REST APIs · PostgreSQL · Docker · Linux  
+- **Basics:** C / C++
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf57rl&show_icons=true&locale=en&layout=compact&theme=radical" alt="yusuf57rl" /></p>
+🛠 Previously worked on [**Skriza**](https://skriza.com) – a sentiment-based social platform (on hold)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusuf57rl&show_icons=true&locale=en&layout=compact&theme=radical" alt="yusuf57rl" /></p>
+📫 **Contact:**  
+mail@yusufsenel.de
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf57rl&layout=compact&theme=radical" alt="yusuf57rl" /></p>
+---
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf57rl&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusuf57rl&show_icons=true&locale=en&layout=compact&theme=radical" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf57rl&layout=compact&theme=radical" alt="GitHub Streak" /></p>
