@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer · Focused on modern web platforms</h3>
 
 <p align="center">
-  <a href="https://livalink.com" target="_blank">livalink.com</a> · 
+  <a href="https://synaplan.com" target="_blank">synaplan.com</a> · 
   <a href="https://log-sysdev.de" target="_blank">log-sysdev.de</a> · 
   <a href="mailto:mail@yusufsenel.de">mail@yusufsenel.de</a>
 </p>
@@ -13,21 +13,31 @@
 
 ---
 
-🚀 Currently building [**LivaLink**](https://livalink.com) – a link-in-bio and booking tool for small businesses and restaurants. Includes scheduling, product pages and integrated payment handling (in development).
+## 🚀 Focus Project: [**Synaplan**](https://synaplan.com)
+An open-source **AI Communication Management Platform** that connects multiple AI services with popular communication channels.  
+Designed for seamless integration, efficient data handling, and flexible expansion.
 
-🧩 Offering freelance services via [**log-sysdev.de**](https://log-sysdev.de) — mainly focused on custom web development using modern stacks.
+> Currently in active development — aiming to redefine how teams interact with AI.
 
-💻 **Stack & Skills**
+---
 
+## 🛠 Other Projects (currently on hold)
+- [**LivaLink**](https://livalink.com) – Link-in-bio & booking tool  
+- [**Skriza**](https://skriza.com) – Sentiment-based social platform
+
+---
+
+## 💻 Tech & Skills
 - **Frontend:** Next.js · React · TypeScript  
 - **Backend:** Golang · PHP (Symfony) · Python  
 - **Other:** REST APIs · PostgreSQL · Docker · Linux  
 - **Basics:** C / C++
 
-🛠 Previously worked on [**Skriza**](https://skriza.com) – a sentiment-based social platform (on hold)
+---
 
-📫 **Contact:**  
-mail@yusufsenel.de
+## 📫 Contact
+- **Email:** mail@yusufsenel.de  
+- **Website:** [log-sysdev.de](https://log-sysdev.de)  
 
 ---
 
