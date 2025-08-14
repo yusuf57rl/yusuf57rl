@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://synaplan.com" target="_blank">synaplan.com</a> · 
   <a href="https://log-sysdev.de" target="_blank">log-sysdev.de</a> · 
+  <a href="https://yusufsenel.de" target="_blank">yusufsenel.de (personal)</a> ·
   <a href="mailto:mail@yusufsenel.de">mail@yusufsenel.de</a>
 </p>
 
@@ -14,14 +15,19 @@
 ---
 
 ## 🚀 Focus Project: [**Synaplan**](https://synaplan.com)
-An open-source **AI Communication Management Platform** that connects multiple AI services with popular communication channels.  
-Designed for seamless integration, efficient data handling, and flexible expansion.
-
-> Currently in active development — aiming to redefine how teams interact with AI.
+Open-source **AI Communication Management Platform**.  
+Connects multiple AI services with popular channels. Clean integrations, efficient data handling, easy expansion.  
+> In active development.
 
 ---
 
-## 🛠 Other Projects (currently on hold)
+## 🔧 Active Projects
+- [**Log-SysDev**](https://log-sysdev.de) – Independent studio for custom web apps and integrations.  
+- [**MeSleepin**](https://mesleepin.com) – Gentle sounds and calm sessions to help you relax and sleep.
+
+---
+
+## 🛠 Other Projects (on hold)
 - [**LivaLink**](https://livalink.com) – Link-in-bio & booking tool  
 - [**Skriza**](https://skriza.com) – Sentiment-based social platform
 
@@ -37,7 +43,7 @@ Designed for seamless integration, efficient data handling, and flexible expansi
 
 ## 📫 Contact
 - **Email:** mail@yusufsenel.de  
-- **Website:** [log-sysdev.de](https://log-sysdev.de)  
+- **Personal site:** [yusufsenel.de](https://yusufsenel.de)
 
 ---
 
