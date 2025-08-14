@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yusuf Senel</h1>
-<h3 align="center">Full-Stack Developer · focused on modern web platforms</h3>
+<h1 align="center">Hi 👋, I’m Yusuf Senel</h1>
+<h3 align="center">Full-Stack Developer — AI & modern web platforms</h3>
 
 <p align="center">
-  <a href="https://synaplan.com" target="_blank">synaplan.com</a> · 
-  <a href="https://yusufsenel.de" target="_blank">yusufsenel.de</a> · 
+  <a href="https://synaplan.com" target="_blank" rel="noopener noreferrer">synaplan.com</a> ·
+  <a href="https://yusufsenel.de" target="_blank" rel="noopener noreferrer">yusufsenel.de</a> ·
   <a href="mailto:mail@yusufsenel.de">mail@yusufsenel.de</a>
 </p>
 
@@ -14,9 +14,9 @@
 ---
 
 ## 🚀 Focus Project: <a href="https://synaplan.com"><b>Synaplan</b></a>
-Open-source AI communication management platform — connects multiple AI services with popular channels.  
-Clean integrations, efficient data handling, easy expansion.  
-*In active development.*
+Open-source platform for AI-powered communication — connects multiple AI services with popular channels  
+Clean integrations, efficient data handling, easy expansion  
+*In active development*
 
 ---
 
@@ -37,9 +37,9 @@ Clean integrations, efficient data handling, easy expansion.
 
 ## 💻 Tech & Skills
 **Frontend:** Next.js · React · TypeScript  
-**Backend:** Go · PHP (Laravel/Symfony) · Node.js · Python  
+**Backend:** PHP (Laravel/Symfony) · Node.js · Go · Python  
 **Systems:** PostgreSQL · Docker · Linux · REST APIs  
-**Languages:** JavaScript/TypeScript · PHP · Go · Python · **C/C++**
+**Languages:** TypeScript/JavaScript · PHP · Go · Python · **C/C++**
 
 ---
 
