@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#16123a"/>
+    </linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="g1"><stop offset="0" stop-color="#38bdf8" stop-opacity=".45"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2"><stop offset="0" stop-color="#a78bfa" stop-opacity=".45"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect width="1200" height="280" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .n{font:700 64px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#fff}
+    .s{font:500 26px 'Segoe UI',Helvetica,Arial,sans-serif;fill:url(#ac)}
+    .m{font:400 18px Consolas,'SFMono-Regular',monospace;fill:#8b93b5}
+    .l{opacity:0;animation:cy 9s infinite}
+    .l2{animation-delay:3s}.l3{animation-delay:6s}
+    @keyframes cy{0%{opacity:0;transform:translateY(8px)}5%,30%{opacity:1;transform:none}35%,100%{opacity:0}}
+    .cur{animation:bl 1s steps(1) infinite}
+    @keyframes bl{50%{opacity:0}}
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="280" fill="url(#bg)"/>
+    <circle r="220" fill="url(#g1)"><animate attributeName="cx" values="150;450;150" dur="14s" repeatCount="indefinite"/><animate attributeName="cy" values="40;220;40" dur="11s" repeatCount="indefinite"/></circle>
+    <circle r="260" fill="url(#g2)"><animate attributeName="cx" values="1050;760;1050" dur="16s" repeatCount="indefinite"/><animate attributeName="cy" values="260;40;260" dur="12s" repeatCount="indefinite"/></circle>
+    <text x="70" y="70" class="m">&lt;/&gt; langenfeld, nrw</text>
+    <text x="70" y="150" class="n">Yusuf Senel</text>
+    <g transform="translate(70 205)">
+      <text class="s l">Websites that bring in enquiries</text>
+      <text class="s l l2">AI integrations that save hours</text>
+      <text class="s l l3">Apps and products of my own</text>
+    </g>
+    <rect x="70" y="238" width="90" height="4" rx="2" fill="url(#ac)"><animate attributeName="width" values="90;260;90" dur="6s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
